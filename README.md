@@ -3,8 +3,7 @@
 Mac apps by Nocturnab, installable with [Homebrew](https://brew.sh).
 
 ```bash
-brew tap danielnebreja24/tap
-brew install --cask purrlet
+brew install --cask danielnebreja24/tap/purrlet
 ```
 
 | App | What it is |
