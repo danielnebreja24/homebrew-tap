@@ -13,8 +13,8 @@
 # changes the file):
 #     shasum -a 256 dist/Purrlet-<version>.dmg
 cask "purrlet" do
-  version "1.1.0"
-  sha256 "0d6f93dc086870a6f59baf4560463c10f5a74e2e5de2a46e0fc49c3212b5f94a"
+  version "1.1.1"
+  sha256 "63cff8855f467f05a55d97850f93a3eec7d7f058739696a6a39d8e32720d73ea"
 
   # The source repo is private; DMGs are published to a public, releases-only repo.
   url "https://github.com/danielnebreja24/purrlet-releases/releases/download/v#{version}/Purrlet-#{version}.dmg"
